@@ -2,6 +2,11 @@
 
 This project was an exercise in CSS and JavaScript. The styling was accomplished using a combination of absolute and relative positioning. We also used the CSS transform property to translate the eyballs along the Y-axis. When combined with JavaScript onmousemove method, the eyeballs follow the mouse cursor. A good next step will be to make the eyes blink by clicking the mouse.
 
+
+### How to run
+To run this project on your computer, you can download the folder and drag and drop the index.html file into any web browser. 
+Alternatively you can [click on this link to the live site](https://emday4prez.github.io/Eye-Exercise/), hosted by github pages.
+
 ## MIT License
 
 Copyright (c) 2022 Emerson
