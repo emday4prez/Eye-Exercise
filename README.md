@@ -7,6 +7,9 @@ This project was an exercise in CSS and JavaScript. The styling was accomplished
 To run this project on your computer, you can download the folder and drag and drop the index.html file into any web browser. 
 Alternatively you can [click on this link to the live site](https://emday4prez.github.io/Eye-Exercise/), hosted by github pages.
 
+## Future Improvements
+In the this can be improved by adding a nose and mouth as well as making the eyes blink on click.
+
 ### MIT License
 
 Copyright (c) 2022 Emerson Day
